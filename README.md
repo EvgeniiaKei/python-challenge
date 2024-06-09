@@ -37,6 +37,8 @@ The greatest decrease in profits (date and amount) over the entire period
 
 # My analysis should align with the following results:
 
+<img width="329" alt="PyBank" src="https://github.com/EvgeniiaKei/python-challenge/assets/166274251/1ec229cd-921e-4611-a4ee-e921bb867544">
+
 
 
 # PyPoll Instructions
@@ -55,4 +57,7 @@ The total number of votes each candidate won
 The winner of the election based on popular vote
 
 # My analysis should align with the following results:
+
+<img width="478" alt="PyPoll1" src="https://github.com/EvgeniiaKei/python-challenge/assets/166274251/56a347b6-26df-46bd-ab21-b464c4988f63">
+
 
