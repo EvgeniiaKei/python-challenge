@@ -37,7 +37,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 # My analysis should align with the following results:
 
-<img width="329" alt="PyBank" src="https://github.com/EvgeniiaKei/python-challenge/assets/166274251/1ec229cd-921e-4611-a4ee-e921bb867544">
+<img width="326" alt="pbtxt1" src="https://github.com/EvgeniiaKei/python-challenge/assets/166274251/47d6127b-4304-4632-95d5-5257c6e2af7d">
 
 
 
