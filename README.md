@@ -37,7 +37,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 # My analysis should align with the following results:
 
-<img width="326" alt="pbtxt1" src="https://github.com/EvgeniiaKei/python-challenge/assets/166274251/47d6127b-4304-4632-95d5-5257c6e2af7d">
+<img width="688" alt="PBtxt2" src="https://github.com/EvgeniiaKei/python-challenge/assets/166274251/e05f1cf8-fb48-4dbb-a9e5-d0368dea6a91">
 
 
 
@@ -58,6 +58,8 @@ The winner of the election based on popular vote
 
 # My analysis should align with the following results:
 
-<img width="478" alt="PyPoll1" src="https://github.com/EvgeniiaKei/python-challenge/assets/166274251/56a347b6-26df-46bd-ab21-b464c4988f63">
+<img width="904" alt="PPtxt" src="https://github.com/EvgeniiaKei/python-challenge/assets/166274251/adfe10f8-e972-4b0f-a682-8511e69e5a77">
+
+
 
 
