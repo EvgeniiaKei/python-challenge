@@ -35,7 +35,7 @@ The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in profits (date and amount) over the entire period
 
-# My analysis should align with the following results:
+# My analysis results:
 
 <img width="688" alt="PBtxt2" src="https://github.com/EvgeniiaKei/python-challenge/assets/166274251/e05f1cf8-fb48-4dbb-a9e5-d0368dea6a91">
 
@@ -56,7 +56,7 @@ The total number of votes each candidate won
 
 The winner of the election based on popular vote
 
-# My analysis should align with the following results:
+# My analysis results:
 
 <img width="904" alt="PPtxt" src="https://github.com/EvgeniiaKei/python-challenge/assets/166274251/adfe10f8-e972-4b0f-a682-8511e69e5a77">
 
